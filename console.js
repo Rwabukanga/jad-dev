@@ -5,5 +5,7 @@ console.log("Hello World")
 console.log("Hello World 2")
 
 function main(){
-return null;
+console.log(1);
 }
+
+main()
